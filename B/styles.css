@@ -1,0 +1,29 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    transition: background-color 0.5s;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  #colorDisplay {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  #copyButton {
+    padding: 10px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  #gradientCheckbox {
+    margin-top: 10px;
+  }
+  
+  #colorPicker {
+    margin-top: 10px;
+  }
